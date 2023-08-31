@@ -1,0 +1,11 @@
+D:\Zapateria\tienda_de_zapatos\bin\Debug\tienda_de_zapatos.exe.config
+D:\Zapateria\tienda_de_zapatos\bin\Debug\tienda_de_zapatos.exe
+D:\Zapateria\tienda_de_zapatos\bin\Debug\tienda_de_zapatos.pdb
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.csproj.AssemblyReference.cache
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.Form1.resources
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.Properties.Resources.resources
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.csproj.GenerateResource.cache
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.csproj.CoreCompileInputs.cache
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.exe
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.pdb
+D:\Zapateria\tienda_de_zapatos\obj\Debug\tienda_de_zapatos.Form2.resources
